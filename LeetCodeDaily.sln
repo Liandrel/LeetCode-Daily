@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "879. Profitable Schemes", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1143. Longest Common Subsequence", "1143. Longest Common Subsequence\1143. Longest Common Subsequence.csproj", "{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "516. Longest Palindromic Subsequence", "516. Longest Palindromic Subsequence\516. Longest Palindromic Subsequence.csproj", "{B936D721-897D-4558-8825-F447D4A80D4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "516. Longest Palindromic Subsequence", "516. Longest Palindromic Subsequence\516. Longest Palindromic Subsequence.csproj", "{B936D721-897D-4558-8825-F447D4A80D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1312.Minimum Insertion Steps to Make a String Palindrome", "1312.Minimum Insertion Steps to Make a String Palindrome\1312.Minimum Insertion Steps to Make a String Palindrome.csproj", "{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B936D721-897D-4558-8825-F447D4A80D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B936D721-897D-4558-8825-F447D4A80D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B936D721-897D-4558-8825-F447D4A80D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
