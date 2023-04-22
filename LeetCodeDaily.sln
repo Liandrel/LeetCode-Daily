@@ -5,15 +5,17 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1639. Number of Ways to Form a Target String Given a Dictionary", "LeetCodeDaily\1639. Number of Ways to Form a Target String Given a Dictionary.csproj", "{297C6F7C-05C2-422F-AC8A-E95C992B1C27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431. Kids With the Greatest Number of Candies", "1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj", "{975CF055-247E-4871-B05E-2A9DF18FE7D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1431. Kids With the Greatest Number of Candies", "1431. Kids With the Greatest Number of Candies\1431. Kids With the Greatest Number of Candies.csproj", "{975CF055-247E-4871-B05E-2A9DF18FE7D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{2561E306-1BF9-4412-B0A8-47C3DCFE7EC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{2561E306-1BF9-4412-B0A8-47C3DCFE7EC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1372. Longest ZigZag Path in a Binary Tree", "1372. Longest ZigZag Path in a Binary Tree\1372. Longest ZigZag Path in a Binary Tree.csproj", "{17FB3E3F-2FB1-4D55-ABD3-9CC42DF368BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1372. Longest ZigZag Path in a Binary Tree", "1372. Longest ZigZag Path in a Binary Tree\1372. Longest ZigZag Path in a Binary Tree.csproj", "{17FB3E3F-2FB1-4D55-ABD3-9CC42DF368BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "662. Maximum Width of Binary Tree", "662. Maximum Width of Binary Tree\662. Maximum Width of Binary Tree.csproj", "{AA7B5452-5160-43CF-908D-E3F8726553B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "662. Maximum Width of Binary Tree", "662. Maximum Width of Binary Tree\662. Maximum Width of Binary Tree.csproj", "{AA7B5452-5160-43CF-908D-E3F8726553B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "879. Profitable Schemes", "879. Profitable Schemes\879. Profitable Schemes.csproj", "{62A985BD-75DA-4BA4-9A80-6242240765F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "879. Profitable Schemes", "879. Profitable Schemes\879. Profitable Schemes.csproj", "{62A985BD-75DA-4BA4-9A80-6242240765F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1143. Longest Common Subsequence", "1143. Longest Common Subsequence\1143. Longest Common Subsequence.csproj", "{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{62A985BD-75DA-4BA4-9A80-6242240765F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62A985BD-75DA-4BA4-9A80-6242240765F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62A985BD-75DA-4BA4-9A80-6242240765F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
