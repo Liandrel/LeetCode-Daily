@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "662. Maximum Width of Binar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "879. Profitable Schemes", "879. Profitable Schemes\879. Profitable Schemes.csproj", "{62A985BD-75DA-4BA4-9A80-6242240765F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1143. Longest Common Subsequence", "1143. Longest Common Subsequence\1143. Longest Common Subsequence.csproj", "{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1143. Longest Common Subsequence", "1143. Longest Common Subsequence\1143. Longest Common Subsequence.csproj", "{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "516. Longest Palindromic Subsequence", "516. Longest Palindromic Subsequence\516. Longest Palindromic Subsequence.csproj", "{B936D721-897D-4558-8825-F447D4A80D4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BA50999-9C7B-4D64-91C1-A5FEB1B86683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B936D721-897D-4558-8825-F447D4A80D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B936D721-897D-4558-8825-F447D4A80D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B936D721-897D-4558-8825-F447D4A80D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B936D721-897D-4558-8825-F447D4A80D4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

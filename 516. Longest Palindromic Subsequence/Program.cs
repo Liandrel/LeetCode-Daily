@@ -1,16 +1,24 @@
-﻿
-List<string> text1s = new() { "abcde", "abc", "abc" };
-List<string> text2s = new() { "ace", "abc", "def" };
+﻿List<string> texts = new() { "bbbab", "cbbd" };
 
 
-for(int i = 0;  i < text1s.Count; i++)
+for (int i = 0; i < texts.Count; i++)
 {
-    var result = LongestCommonSubsequence(text1s[i], text2s[i]);
+    var result = LongestPalindromeSubseq(texts[i]);
 }
 
 
 
- int LongestCommonSubsequence(string text1, string text2)
+
+int LongestPalindromeSubseq(string s)
+{
+
+    string reversedString =  new(s.Reverse().ToArray());
+    return LongestCommonSubsequence(s, reversedString);
+
+}
+
+
+int LongestCommonSubsequence(string text1, string text2)
 {
     int n = text1.Length;
     int m = text2.Length;
