@@ -24,7 +24,7 @@ int NumberOfArrays(string s, int k)
         for(int end = start; end < m; ++end)
         {
             string current = s.Substring(start, end - start + 1);
-            if (int.Parse(current) > k)
+            if (long.Parse(current) > k)
                 break;
             dp[end + 1] = (dp[end + 1] + dp[start]) % mod;
         }
