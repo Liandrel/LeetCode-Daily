@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1143. Longest Common Subseq
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "516. Longest Palindromic Subsequence", "516. Longest Palindromic Subsequence\516. Longest Palindromic Subsequence.csproj", "{B936D721-897D-4558-8825-F447D4A80D4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1312.Minimum Insertion Steps to Make a String Palindrome", "1312.Minimum Insertion Steps to Make a String Palindrome\1312.Minimum Insertion Steps to Make a String Palindrome.csproj", "{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1312.Minimum Insertion Steps to Make a String Palindrome", "1312.Minimum Insertion Steps to Make a String Palindrome\1312.Minimum Insertion Steps to Make a String Palindrome.csproj", "{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1416. Restore The Array", "1416. Restore The Array\1416. Restore The Array.csproj", "{D298E64E-CAA9-4666-A468-DB6BF6031075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1046. Last Stone Weight", "1046. Last Stone Weight\1046. Last Stone Weight.csproj", "{C51F4DC7-4083-4AED-A1F1-52BB211E3495}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCF7D519-1B34-4E8A-9B2F-34E3A5E3AA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D298E64E-CAA9-4666-A468-DB6BF6031075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D298E64E-CAA9-4666-A468-DB6BF6031075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D298E64E-CAA9-4666-A468-DB6BF6031075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D298E64E-CAA9-4666-A468-DB6BF6031075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C51F4DC7-4083-4AED-A1F1-52BB211E3495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51F4DC7-4083-4AED-A1F1-52BB211E3495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51F4DC7-4083-4AED-A1F1-52BB211E3495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51F4DC7-4083-4AED-A1F1-52BB211E3495}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
