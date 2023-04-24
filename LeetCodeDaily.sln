@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1046. Last Stone Weight", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "509. Fibonacci Number", "509. Fibonacci Number\509. Fibonacci Number.csproj", "{6302EAB2-1468-4FE8-870D-C337D251D0D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70. Climbing Stairs", "70. Climbing Stairs\70. Climbing Stairs.csproj", "{53D391A4-9504-4F2A-9D66-5D15BE6ED925}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70. Climbing Stairs", "70. Climbing Stairs\70. Climbing Stairs.csproj", "{53D391A4-9504-4F2A-9D66-5D15BE6ED925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "746. Min Cost Climbing Stairs", "746. Min Cost Climbing Stairs\746. Min Cost Climbing Stairs.csproj", "{871F3182-5DD7-449D-B7AF-66D6890F93CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{53D391A4-9504-4F2A-9D66-5D15BE6ED925}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53D391A4-9504-4F2A-9D66-5D15BE6ED925}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53D391A4-9504-4F2A-9D66-5D15BE6ED925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871F3182-5DD7-449D-B7AF-66D6890F93CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871F3182-5DD7-449D-B7AF-66D6890F93CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871F3182-5DD7-449D-B7AF-66D6890F93CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871F3182-5DD7-449D-B7AF-66D6890F93CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
