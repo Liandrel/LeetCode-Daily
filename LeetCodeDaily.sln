@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "198. House Robber", "198. H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "213. House Robber II", "213. House Robber II\213. House Robber II.csproj", "{D7CB0E0B-8728-4B76-A686-8FBA8FEEA8AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2410. Maximum Matching of Players With Trainers", "2410. Maximum Matching of Players With Trainers\2410. Maximum Matching of Players With Trainers.csproj", "{3D0315FA-22D3-41C4-8C45-E2F67A590E47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2410. Maximum Matching of Players With Trainers", "2410. Maximum Matching of Players With Trainers\2410. Maximum Matching of Players With Trainers.csproj", "{3D0315FA-22D3-41C4-8C45-E2F67A590E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62. Unique Paths", "62. Unique Paths\62. Unique Paths.csproj", "{EA09762B-26CB-4D75-A787-413507AF4D49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{3D0315FA-22D3-41C4-8C45-E2F67A590E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D0315FA-22D3-41C4-8C45-E2F67A590E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D0315FA-22D3-41C4-8C45-E2F67A590E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA09762B-26CB-4D75-A787-413507AF4D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA09762B-26CB-4D75-A787-413507AF4D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA09762B-26CB-4D75-A787-413507AF4D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA09762B-26CB-4D75-A787-413507AF4D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
