@@ -31,7 +31,6 @@ int UniquePaths(int m, int n)
             cur[j] = up + left;
         }
         prev = cur;
-        cur = new int[n + 1];
     }
     return prev[n-1];
 }
