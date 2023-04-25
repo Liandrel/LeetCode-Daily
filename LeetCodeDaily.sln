@@ -35,7 +35,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2498. Frog Jump II", "2498.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "338. Counting Bits", "338. Counting Bits\338. Counting Bits.csproj", "{22AB8B41-191F-4ABF-9B6E-DBFAD30A1D04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2336. Smallest Number in Infinite Set", "2336. Smallest Number in Infinite Set\2336. Smallest Number in Infinite Set.csproj", "{E05AF817-FD49-4685-AE04-FA57E6511EA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2336. Smallest Number in Infinite Set", "2336. Smallest Number in Infinite Set\2336. Smallest Number in Infinite Set.csproj", "{E05AF817-FD49-4685-AE04-FA57E6511EA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "198. House Robber", "198. House Robber\198. House Robber.csproj", "{CA7FFF42-16A1-4B14-9BF0-522B69DBF8BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{E05AF817-FD49-4685-AE04-FA57E6511EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05AF817-FD49-4685-AE04-FA57E6511EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05AF817-FD49-4685-AE04-FA57E6511EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7FFF42-16A1-4B14-9BF0-522B69DBF8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7FFF42-16A1-4B14-9BF0-522B69DBF8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7FFF42-16A1-4B14-9BF0-522B69DBF8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7FFF42-16A1-4B14-9BF0-522B69DBF8BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
