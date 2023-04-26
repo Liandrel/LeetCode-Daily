@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2410. Maximum Matching of P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "62. Unique Paths", "62. Unique Paths\62. Unique Paths.csproj", "{EA09762B-26CB-4D75-A787-413507AF4D49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "258. Add Digits", "258. Add Digits\258. Add Digits.csproj", "{BA0ED66B-18BF-4F8E-8773-E5EDD12006CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "258. Add Digits", "258. Add Digits\258. Add Digits.csproj", "{BA0ED66B-18BF-4F8E-8773-E5EDD12006CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63. Unique Paths II", "63. Unique Paths II\63. Unique Paths II.csproj", "{B76091A3-D4FA-48EC-B047-9135BFA57A04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{BA0ED66B-18BF-4F8E-8773-E5EDD12006CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA0ED66B-18BF-4F8E-8773-E5EDD12006CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA0ED66B-18BF-4F8E-8773-E5EDD12006CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76091A3-D4FA-48EC-B047-9135BFA57A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76091A3-D4FA-48EC-B047-9135BFA57A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76091A3-D4FA-48EC-B047-9135BFA57A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76091A3-D4FA-48EC-B047-9135BFA57A04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
